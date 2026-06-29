@@ -1,5 +1,5 @@
 import type { LucideIcon } from "lucide-react";
-import {Palette, Smartphone, Wrench } from "lucide-react";
+import {Network, Palette, Smartphone, Wrench } from "lucide-react";
 
 /** A single skill. `level` (0-100) is optional — omit it to render a plain badge. */
 export type Skill = { name: string; level?: number };
