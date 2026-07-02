@@ -15,8 +15,9 @@ export const about = {
   eyebrow: "About Me",
   title: "Where thoughtful design meets solid engineering",
   summary: [
-    "I'm a product designer and developer who works at the intersection of user experience and engineering. With a computer science foundation and hands-on experience across mobile and web, I create interfaces that are both intuitive and technically sound.",
-    "My process starts with the problem, not the pixels — understanding real user needs and business goals, then crafting solutions that balance usability, performance, and maintainability, and taking them all the way through to production.",
+    "I'm a Product Designer with a Computer Science background who enjoys turning complex problems into simple, intuitive digital experiences. I combine design thinking with technical understanding to create products that not only look polished but also align with user needs, business objectives, and technical constraints.",
+    "I believe great design starts with curiosity. Before designing interfaces, I focus on understanding the people I'm designing for, the challenges they face, and the outcomes the business wants to achieve. From research and user flows to wireframes, prototypes, and high fidelity designs, I approach every stage with intention and attention to detail.",
+    "My technical foundation allows me to collaborate effectively with developers, communicate design decisions clearly, and create solutions that are practical to implement. I'm passionate about continuous learning, thoughtful collaboration, and building digital products that make a meaningful impact on people's everyday lives.",
   ],
   strengths: [
     { icon: Palette, title: "User-Centered Design", description: "Research-driven UI/UX that puts real user needs first, from wireframes to polished, accessible interfaces." },
