@@ -15,9 +15,9 @@ export const about = {
   eyebrow: "About Me",
   title: "Where thoughtful design meets solid engineering",
   summary: [
-    "I'm a Product Designer with a Computer Science background who enjoys turning complex problems into simple, intuitive digital experiences. I combine design thinking with technical understanding to create products that not only look polished but also align with user needs, business objectives, and technical constraints.",
-    "I believe great design starts with curiosity. Before designing interfaces, I focus on understanding the people I'm designing for, the challenges they face, and the outcomes the business wants to achieve. From research and user flows to wireframes, prototypes, and high fidelity designs, I approach every stage with intention and attention to detail.",
-    "My technical foundation allows me to collaborate effectively with developers, communicate design decisions clearly, and create solutions that are practical to implement. I'm passionate about continuous learning, thoughtful collaboration, and building digital products that make a meaningful impact on people's everyday lives.",
+    "I'm a Product Designer with a Computer Science background, passionate about turning complex problems into simple, intuitive digital experiences. I combine design thinking with technical understanding to create solutions that are user centered, visually engaging, and practical to build.",
+    "My process starts with understanding people, their needs, and the goals behind every product. Through research, wireframes, prototyping, and interface design, I create experiences that balance usability, functionality, and business impact.",
+    "I enjoy collaborating with cross functional teams, learning continuously, and designing products that make a meaningful difference in people's everyday lives.",
   ],
   strengths: [
     { icon: Palette, title: "User-Centered Design", description: "Research-driven UI/UX that puts real user needs first, from wireframes to polished, accessible interfaces." },
