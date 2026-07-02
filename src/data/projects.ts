@@ -52,7 +52,7 @@ export const projects: Project[] = [
     tech: ["Flutter", "Firebase", "Figma"],
     links: {
       // No public demo (internal enterprise tool) — Live Demo button is hidden.
-      caseStudy: "/projects/apex-logistics",
+      caseStudy: "/projects/apex",
     },
   },
   {

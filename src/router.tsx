@@ -4,6 +4,7 @@ import App from "./App";
 
 import { HomePage } from "./pages/HomePage";
 import { MexchangeCaseStudy } from "./pages/MexchangeCaseStudy";
+import { ApexCaseStudy } from "./pages/ApexCaseStudy";
 
 export const router = createBrowserRouter([
   {
@@ -17,6 +18,10 @@ export const router = createBrowserRouter([
       {
         path: "projects/mexchange",
         element: <MexchangeCaseStudy />,
+      },
+      {
+        path: "projects/apex",
+        element: <ApexCaseStudy />,
       },
     ],
   },

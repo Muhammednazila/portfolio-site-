@@ -75,3 +75,65 @@ export const mexchange: CaseStudy = {
     "/screenshots/mexchange/exchange.png",
   ],
 };
+export const apex: CaseStudy = {
+  slug: "apex",
+
+  title: "Apex Logistics",
+
+  status: "Concept Project",
+
+  category: "Logistics Mobile Application",
+
+  overview:
+    "Apex Logistics is a mobile application designed to streamline shipment management through real time tracking, driver assignment, and delivery monitoring. The project focused on improving operational visibility while simplifying logistics workflows for dispatchers and drivers.",
+
+  problem:
+    "Dispatchers managed shipments across spreadsheets and phone calls, with no real time visibility into fleet status or delivery exceptions.",
+
+  solution:
+    "Designed a mobile application for real time shipment tracking, driver assignment, live delivery status updates, and exception reporting to reduce manual coordination and improve operational efficiency.",
+
+  role: [
+    "Product Design",
+    "UI Design",
+    "UX Design",
+    "Wireframing",
+    "Prototyping",
+    "Design System"
+  ],
+
+  technologies: [
+    "Figma"
+  ],
+
+  process: [
+    "Research",
+    "User Flow Mapping",
+    "Wireframing",
+    "UI Design",
+    "Interactive Prototype",
+    "Usability Testing"
+  ],
+
+  challenges:
+    "Balancing operational complexity with a clean interface while ensuring drivers and dispatchers could access important information quickly during deliveries.",
+
+  outcome:
+    "Produced a complete mobile logistics experience covering onboarding, shipment tracking, delivery status, destination management, and ride completion flows.",
+
+  lessons:
+    "The project strengthened my ability to simplify operational workflows into intuitive user experiences and reinforced the importance of information hierarchy in logistics products.",
+
+  screenshots: [
+    "/apex/splash_screen.png",
+    "/apex/onboaading_screen_1.png",
+    "/apex/onboaading_screen_2.png",
+    "/apex/onboaading_screen_3.png",
+    "/apex/user_dashboard.png",
+    "/apex/ongoing_ride.png",
+    "/apex/destination _2.png",
+    "/apex/destination_3.png",
+    "/apex/deliverd.png",
+    "/apex/canceled_ride.png"
+  ]
+};
