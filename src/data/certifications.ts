@@ -19,27 +19,6 @@ export const certifications: Certification[] = [
     organization: "International Organization of Tijaniyya Brothers (IOTB), Nigeria",
     issueDate: "2023",
     //credentialId: "GUX-2023-0000",
-    verifyUrl: "https://www.coursera.org/account/accomplishments/verify/EXAMPLE",
+    verifyUrl: "https://drive.google.com/file/d/1Dr0tbrl9YSmIeuTaWAIALgs4PuXeTcyg/view?usp=drivesdk",
   },
-  /**{
-    title: "Meta Front-End Developer Certificate",
-    organization: "Meta",
-    issueDate: "2022",
-    credentialId: "MFE-2022-0000",
-    verifyUrl: "https://www.coursera.org/account/accomplishments/verify/EXAMPLE",
-  },*/
-  /**{
-    title: "React Native: Mobile App Development",
-    organization: "Udemy",
-    issueDate: "2022",
-    // No credentialId — demonstrates the optional field.
-    verifyUrl: "https://www.udemy.com/certificate/EXAMPLE/",
-  },*/
- /** {
-    title: "Responsive Web Design Certification",
-    organization: "freeCodeCamp",
-    issueDate: "2021",
-    credentialId: "FCC-2021-0000",
-    // No verifyUrl — demonstrates the optional field.
-  },*/
 ];
